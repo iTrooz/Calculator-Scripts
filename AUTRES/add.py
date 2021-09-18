@@ -1,0 +1,9 @@
+#A*C+B*D
+A=int(input("A="))
+B=int(input("B="))
+C=A*B
+D=-A*A
+R=A*C+B*D
+print(str(A)+"*"+
+str(C)+"+"+str(B)+
+"*"+str(D)+"="+str(R))
